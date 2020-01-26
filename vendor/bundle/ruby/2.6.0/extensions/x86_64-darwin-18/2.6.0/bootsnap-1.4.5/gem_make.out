@@ -1,0 +1,15 @@
+current directory: /Users/sendahiroshikou/Desktop/rails_lesson/devise_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+/Users/sendahiroshikou/.rbenv/versions/2.6.5/bin/ruby -I /Users/sendahiroshikou/.rbenv/versions/2.6.5/lib/ruby/2.6.0 -r ./siteconf20200126-3537-1crav6s.rb extconf.rb
+creating Makefile
+
+current directory: /Users/sendahiroshikou/Desktop/rails_lesson/devise_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/sendahiroshikou/Desktop/rails_lesson/devise_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/sendahiroshikou/Desktop/rails_lesson/devise_app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.5/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20200126-3537-1qgj173/bootsnap
